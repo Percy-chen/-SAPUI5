@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("DEMO.GITDEMO.controller.Main", {
 		onInit: function () {
-
+			console.log('123');
 		}
 	});
 });
